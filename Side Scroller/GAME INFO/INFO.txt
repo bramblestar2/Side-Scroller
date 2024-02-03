@@ -1,0 +1,2 @@
+0 solid block
+1 death block
